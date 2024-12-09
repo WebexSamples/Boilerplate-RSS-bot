@@ -1,2 +1,2 @@
-# ignoring the READEME file due to linting causing issues with the env table
+# ignoring the README file due to linting causing issues with the env table
  **/*.md
